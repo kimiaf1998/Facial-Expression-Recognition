@@ -1,4 +1,4 @@
-# Python Face Emotion Detetor <br/>(OpenCV + Cascade Classifier)
+# Facial Expression Recognition <br/>
 The open-source console application developed with `Python 3` using `OpenCV`, `Keras`, and `Cascade Classifier` to train and detect seven human face emotion types as follows below:
 * Angry
 * Happy
